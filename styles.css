@@ -1,0 +1,28 @@
+
+.page-heading{
+    background-color: #ff0000cc;
+    color: #fffff0ee
+}
+
+
+
+h2 {
+    background-color: #daa520aa;
+}
+
+
+
+.recipe-list li{
+
+    margin-bottom: 10px;
+
+}
+
+.ingredients li{
+    margin-bottom: 5px;
+}
+
+
+a {
+    text-decoration: none;
+}
